@@ -1,0 +1,8 @@
+make - Compila todos os arquivos do projeto.
+make clean - Limpa todos os arquivos criados pela compilação e execução.
+make run - Executa o projeto com todas as entradas disponíveis.
+
+Entradas: São imagens no formato ppm que estão presentes na pasta INPUT.
+Saídas: São imagens no formato ppm salvas na pasta OUTPUT.
+
+Speedup: A análise de speedup de todas as entradas estarão presentes no arquivo output.dat após a execução do projeto, conforme especificado na descrição do trabalho.
