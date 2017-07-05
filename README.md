@@ -1,5 +1,7 @@
 # GPU_implementations
 Codes develped during the parallel programming course. The main codes developed were:
-1. fast-fourier transform with CUDA
+1. fast-fourier transform (image processing)
 2. 2-D convolution (image processing)
-3. matrix addition/subtraction
+3. image histogram (image processing)
+
+All codes were written in CUDA.
